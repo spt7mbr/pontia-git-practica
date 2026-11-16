@@ -1,13 +1,4 @@
-# Entornos virtuales
-.venv/
-venv/
-
-# Archivos temporales de Python
+#exclusion *.log
+*.log
+#exclusion pycache
 __pycache__/
-*.pyc
-
-# Variables de entorno
-.env
-
-# Configuración del editor
-.vscode/
